@@ -28,7 +28,7 @@
 
 ```bash
 git clone https://github.com/yourusername/CodeSync.git
-cd CodeSync
+cd code-sync
 ```
 
 ### 2. Install dependencies
